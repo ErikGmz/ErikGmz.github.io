@@ -1,7 +1,44 @@
-body
-{
+body {
     color: darkred;
     font-family: Helvetica;
     text-align: center;
-    text-orientation: sideways-right;
+    margin: 0;
+    padding: 0;
+}
+
+#Cabecera {
+    color: blueviolet;
+    padding: 0;
+    margin: 0 auto;
+    text-align: left;
+
+    width: 70%;
+    border: 1px solid rgba(0, 0, 0, 0.575);
+}
+
+#Extra {
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Helvetica;
+    background-color: rgb(0, 0, 151);
+    padding: 0.5em;
+    margin: 0;
+    border: 2px none black;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.75);
+}
+
+#Extra #linea {
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
+
+#Contenido {
+    color: black;
+    font-family: Helvetica;
+    padding: 0.5em;
+    margin: 0;
+    text-align: left;
+
 }
