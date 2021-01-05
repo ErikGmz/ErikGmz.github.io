@@ -1,6 +1,14 @@
-body
-{
+body {
     color: darkred;
     font-family: Helvetica;
     text-align: center;
+}
+
+#Cabecera {
+    color: blueviolet;
+    padding: 1em;
+    margin: auto;
+    text-align: left;
+    width: 70%;
+    border: 2px solid red;
 }
