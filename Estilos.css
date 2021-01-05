@@ -50,3 +50,14 @@ body {
     text-align: center;
 
 }
+
+#Pie_de_pagina {
+    background-color: rgb(1, 1, 56);
+    color: whitesmoke;
+    padding: 0.3em 0.5em 0.5em 0.5em;
+}
+
+#Copyright {
+    width: 50px;
+    vertical-align: middle;
+}
