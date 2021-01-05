@@ -12,3 +12,13 @@ body {
     width: 70%;
     border: 2px solid red;
 }
+
+#Extra {
+    text-decoration: greenyellow underline;
+    font-style: oblique;
+    font-family: Arial;
+    background-color: khaki;
+    padding: 0.5em;
+    margin: 0 10px 0 50px;
+    border: 4px dashed pink;
+}
