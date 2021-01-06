@@ -42,6 +42,12 @@ body {
     padding: 0 0 0 1.5em;
 }
 
+#Extra #Carita {
+    width: 5%;
+    padding-left: 11em;
+    vertical-align: bottom;
+}
+
 #Contenido {
     color: black;
     font-family: Arial;
