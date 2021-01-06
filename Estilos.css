@@ -57,6 +57,10 @@ body {
 
 }
 
+#Contenido #Foto {
+    width: 50%;
+}
+
 #Pie_de_pagina {
     background-color: rgb(1, 1, 56);
     color: whitesmoke;
